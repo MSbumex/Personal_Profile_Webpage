@@ -1,4 +1,4 @@
-# 🌐 Personal Profile Webpage
+# Personal Profile Webpage
 
 A responsive personal profile webpage built with **HTML** and **CSS Grid**.  
 The project introduces myself, displays my hobbies, and highlights my aspirations in life.  
@@ -6,7 +6,7 @@ It was created as part of an assignment to practice CSS Grid and responsive web 
 
 ---
 
-## 🚀 Features
+## Features
 - Responsive layout using **CSS Grid**  
 - Profile introduction with circular image placeholder  
 - Section for **Hobbies** (with short descriptions)  
