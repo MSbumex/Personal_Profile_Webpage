@@ -20,5 +20,5 @@ It was created as part of an assignment to practice CSS Grid and responsive web 
 Personal_Profile_Webpage/
 │── index.html # Main webpage structure
 │── style.css # Styling and responsive design
-│── README.md # Project documentation
+│── README.md 
 │── assets/media 
